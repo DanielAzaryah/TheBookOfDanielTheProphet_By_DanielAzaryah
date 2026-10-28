@@ -29,9 +29,10 @@ Dershowitz, N. and Reingold, E.M.; Calendrical Calculations (Third Edition); Cam
 Dershowitz, N. and Reingold, E.M.; Calendrical Calculations (The Ultimate Edition); Cambridge University Press; 2018; pp. vii-xliv ; pp. 1-618.
 
 <br />
-<br />
 URLs:
 <br />
 [https://BookOfDanielTheProphet.com]
+<br />
+[https://Daniel924-27.com]
 <br />
 [https://DanielAzaryah.com]
