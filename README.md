@@ -21,4 +21,4 @@ URLs:
 <br />
 [https://BookOfDanielTheProphet.com](https://BookOfDanielTheProphet.com)
 <br />
-[[Link Text](https://DanielAzaryah.com)](https://DanielAzaryah.com)
+[https://DanielAzaryah.com](https://DanielAzaryah.com)
