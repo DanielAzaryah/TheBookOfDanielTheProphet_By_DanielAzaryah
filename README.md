@@ -19,6 +19,6 @@ The Book of Daniel the Prophet (PREPRINT 2026) - contains:
 <br />
 URLs:
 <br />
-[Link Text](https://BookOfDanielTheProphet.com)
+[https://BookOfDanielTheProphet.com](https://BookOfDanielTheProphet.com)
 <br />
-[Link Text](https://DanielAzaryah.com)
+[[Link Text](https://DanielAzaryah.com)](https://DanielAzaryah.com)
