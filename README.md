@@ -17,7 +17,7 @@ The Book of Daniel the Prophet (PREPRINT 2026) - contains:
 7.) Supplementary Data Files (CSVs)
 <br />
 <br />
-Algorithms for Calendrical Calculations provided by:
+Algorithms for Calendrical Calculations (Hebrew, Gregorian, Julian, Egyptian) provided by:
 <br />
 <br />
 Dershowitz, N. and Reingold, E.M.; Calendrical Calculations; Cambridge University Press; 1997; pp. 1-306.
