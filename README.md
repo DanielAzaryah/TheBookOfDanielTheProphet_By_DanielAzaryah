@@ -17,6 +17,19 @@ The Book of Daniel the Prophet (PREPRINT 2026) - contains:
 7.) Supplementary Data Files (CSVs)
 <br />
 <br />
+Algorithms provided by:
+<br />
+<br />
+Dershowitz, N. and Reingold, E.M.; Calendrical Calculations; Cambridge University Press; 1997; pp. 1-306.
+<br />
+<br />
+Dershowitz, N. and Reingold, E.M.; Calendrical Calculations (Third Edition); Cambridge University Press; 2008; pp. 1-479.
+<br />
+<br />
+Dershowitz, N. and Reingold, E.M.; Calendrical Calculations (The Ultimate Edition); Cambridge University Press; 2018; pp. vii-xliv ; pp. 1-618.
+
+<br />
+<br />
 URLs:
 <br />
 [https://BookOfDanielTheProphet.com](https://BookOfDanielTheProphet.com)
