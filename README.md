@@ -32,6 +32,6 @@ Dershowitz, N. and Reingold, E.M.; Calendrical Calculations (The Ultimate Editio
 <br />
 URLs:
 <br />
-[https://BookOfDanielTheProphet.com](https://BookOfDanielTheProphet.com)
+[https://BookOfDanielTheProphet.com]
 <br />
-[https://DanielAzaryah.com](https://DanielAzaryah.com)
+[https://DanielAzaryah.com]
