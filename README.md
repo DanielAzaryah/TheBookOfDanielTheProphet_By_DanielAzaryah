@@ -15,3 +15,10 @@ The Book of Daniel the Prophet (PREPRINT 2026) - contains:
 6.) References and Bibliography;
 <br />
 7.) Supplementary Data Files (CSVs)
+<br />
+<br />
+URLs:
+<br />
+[Link Text](https://BookOfDanielTheProphet.com)
+<br />
+[Link Text](https://DanielAzaryah.com)
